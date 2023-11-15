@@ -1,5 +1,0 @@
-CREATE DATABASE devops;
-
-GRANT ALL ON devops.* TO root;
-
-FLUSH PRIVILEGES;
