@@ -1,0 +1,9 @@
+# Ce fichier indique à Docker d'installer le package mysql-connector-python,
+# qui est nécessaire pour se connecter à la base de données MySQL.
+
+mysql-connector-python
+
+# indique à Docker d'installer le package Flask, 
+# qui est un framework web Python
+
+flask
